@@ -9,4 +9,4 @@ The challenge structure is as follows: for each challenge, you are given a list 
 
 I recently got the opportunity to participate in its latest iteration, and as someone who doesn't consider herself one for code golf, Leetcode, and other code challenges I thought I'd blog about it from a DevOps/SRE perspective. You can find that blog series [here](https://engjole.net/categories/foobar)
 
-## [Challenge One: Re-ID](/re_id)
+## [Challenge One: Re-ID](https://github.com/ENG-Jole/foobar.withgoogle/tree/main/re-id)
